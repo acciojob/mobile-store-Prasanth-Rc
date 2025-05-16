@@ -11,7 +11,7 @@ export const ProductProvider = ({ children }) => {
       price: 999,
       image: 'https://example.com/iphone13.jpg'
     },
-    {
+    { 
       id: 2,
       name: 'Samsung Galaxy S21',
       description: 'Powerful Android flagship',
